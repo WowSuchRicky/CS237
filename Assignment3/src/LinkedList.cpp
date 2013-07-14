@@ -2,7 +2,7 @@
  * LinkedList.cpp
  *
  *  Created on: Apr 6, 2013
- *      Author: Anthony Varghese
+ *      Author: Anthony Varghese, Ricky Mutschlechner
  */
 
 #include <iostream>

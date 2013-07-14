@@ -2,7 +2,7 @@
  * BabyNames.h
  *
  *  Created on: Feb 19, 2013
- *      Author: Anthony Varghese
+ *      Author: Anthony Varghese, Ricky Mutschlechner
  */
 
 #ifndef BABYNAMES_H_
