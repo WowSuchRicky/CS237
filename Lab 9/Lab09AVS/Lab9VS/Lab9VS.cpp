@@ -5,7 +5,7 @@
  * Lab9A.cpp
  *
  *  Created on: Mar 28, 2013
- *      Author: Anthony Varghese
+ *      Author: Riccardo Mutschlechner, Tony Varghese
  *
  */
 
