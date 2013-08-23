@@ -2,7 +2,7 @@
  * Qlistener.cpp
  *
  *  Created on: Apr 19, 2013
- *      Author: tony
+ *      Author: Riccardo Mutschlechner, Tony Varghese
  */
 
 #include "Queue.h"

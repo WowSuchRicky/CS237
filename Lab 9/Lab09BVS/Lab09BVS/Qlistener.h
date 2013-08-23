@@ -2,7 +2,7 @@
  * Qlistener.h
  *
  *  Created on: Apr 19, 2013
- *      Author: tony
+ *      Author: Riccardo Mutschlechner, Tony Varghese
  */
 
 #ifndef QLISTENER_H_

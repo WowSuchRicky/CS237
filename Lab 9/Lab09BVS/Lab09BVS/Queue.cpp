@@ -4,7 +4,7 @@
  *
  *
  *  Created on: Mar 27, 2013
- *      Author: Savitch
+ *      Author: Savitch, Riccardo Mutschlechner, Tony Varghese
  */
 #include <iostream>
 #include <cstdlib>

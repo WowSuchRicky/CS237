@@ -2,7 +2,7 @@
  * Queue.h - interface for the class Queue, which is a template class for a queue of items of type T.
  *
  *  Created on: Mar 27, 2013
- *      Author: Savitch
+ *      Author: Riccardo Mutschlechner, Tony Varghese
  */
 
 #ifndef QUEUE_H_
